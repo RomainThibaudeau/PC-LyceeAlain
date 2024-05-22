@@ -1,0 +1,35 @@
+
+h1{
+    font: 30px "Impact", fantasy;
+    text-align: center
+    }
+    
+    #BoiteGauche,#BoiteDroite {
+    position: absolute;
+    height:500px;
+    top:50px;
+    width:400px;
+    color:#3c29eb;
+    background-color:#a8e7c9;
+     text-align:center;
+    }
+    
+    #BoiteGauche{
+    
+      left:20px;
+    }
+    
+    #BoiteDroite{
+    
+      left:430px;
+    }
+
+#infogirafe, #infoiguane{
+  color:#eb7029;
+}
+    
+#bouton1{
+  width:400px;
+  background-color:#e7a8dd;
+}    
+        
