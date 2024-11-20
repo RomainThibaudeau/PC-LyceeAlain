@@ -140,17 +140,15 @@ h2 {
   color: #fff;
   border: none;
   padding: 10px 20px;
-  /*cursor: pointer;*/
+  cursor: pointer;
   border-radius: 5px;
   font-size: 18px;
   transition: background 0.3s;
-  cursor : not-allowed;
 }
 
-/*.product button:hover {
+.product button:hover {
   background: #04e5ec;
-  cursor : not-allowed;
-}*/
+}
 
 .product #bouton3{
   background: #fc05be;
